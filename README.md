@@ -1,2 +1,1 @@
-# poli_sci_project
-Political Econ Project
+# Political Econ Project
