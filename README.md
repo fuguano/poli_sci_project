@@ -1,5 +1,6 @@
 # Political Econ Project
 
 Other Necessary data availible at:
-* Mine locations:
+* Mine locations (labelled as `mine_locations.csv`):
+* Monthly Prices (labelled as `monthly_$`): 
 * GED: https://ucdp.uu.se/downloads/ged/ged251-csv.zip
